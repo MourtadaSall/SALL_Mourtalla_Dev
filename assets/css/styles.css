@@ -139,6 +139,7 @@ img {
 }
 .nav__link {
   position: relative;
+  text-decoration: none;
   color: #fff;
 }
 .nav__link:hover {
@@ -297,7 +298,7 @@ img {
   width: 85%;
 }
 .skills__js {
-  width: 65%;
+  width: 40%;
 }
 .skills__bootstrap {
   width: 85%;
@@ -498,4 +499,7 @@ img {
 }
 .logo-img{
   width: 90px;
+}
+.souligner{
+  text-decoration: none;
 }
