@@ -503,3 +503,8 @@ img {
 .souligner{
   text-decoration: none;
 }
+.calculator{
+  height: 300px;
+  width: 590px;
+  justify-content: center;
+}
